@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-system",
+  "version": "1.0.0",
+  "description": "Simple Test Program",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssigman/simple-node-system.git"
+  },
+  "author": "S. Sigman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssigman/simple-node-system/issues"
+  },
+  "homepage": "https://github.com/ssigman/simple-node-system#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
